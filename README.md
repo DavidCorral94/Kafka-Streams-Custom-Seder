@@ -1,6 +1,6 @@
 # Kafka Streams Custom Seder
 
-Just an example of how to use a custom Seder in Kafka Streams Applications.
+Just an example of how to use a custom Seder in Kafka Streams Applications. It works with Kafka 2.1.0.
 
 
 ## Install
